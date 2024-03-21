@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaryamBatoolRana
 - 👀 I’m interested in Art
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning nuxt js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
